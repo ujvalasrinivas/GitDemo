@@ -1,5 +1,5 @@
 # GitDemo
 This is my first repo
 <br>
-Author - Ujvala Vuyyuru
+Author - Ujvala (vuyyuru)
 
